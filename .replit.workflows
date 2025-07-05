@@ -1,0 +1,3 @@
+[workflow.dev]
+name = "Start application"
+command = "node app.js"

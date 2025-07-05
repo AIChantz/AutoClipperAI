@@ -1,0 +1,6 @@
+[run]
+command = "node app.js"
+
+[deployment]
+run = "node app.js"
+deploymentTarget = "cloudrun"

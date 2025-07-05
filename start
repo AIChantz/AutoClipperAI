@@ -1,0 +1,4 @@
+#!/bin/bash
+# Simple deployment start script for AutoClipper AI
+echo "🚀 Starting AutoClipper AI Server..."
+node index.js
